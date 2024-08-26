@@ -1,9 +1,9 @@
 # TrackingMore: Royal Mail Tracking API & Webhook
-With [Royal Mail Tracking API](https://www.trackingmore.com/royal-mail-tracking-api.html), you can embed Royal Mail shipment updates directly into your system, enhancing overall shipment tracking.
+With [Royal Mail Tracking API](https://www.trackingmore.com/royal-mail-tracking-api.html), you can embed Royal Mail tracking updates directly into your system, enhancing overall shipment tracking.
 
-TrackingMore elevates this by providing a versatile [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api) that works with over a thousand global carriers.
+TrackingMore provides a versatile [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api) that supports [Royal Mail tracking](https://www.trackingmore.com/royal-mail-tracking.html) along with 1,200+ other global carriers.
 
-TrackingMore also ensures easy integration with its API that is adaptable to seven programming languages, complete with in-depth documentation for straightforward setup and usage.
+TrackingMore also ensures easy integration with its API is adaptable to seven programming languages, complete with in-depth documentation for straightforward setup and usage.
 
 ### Features
    *  Unified real-time tracking information for Royal Mail shipments.
